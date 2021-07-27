@@ -1,4 +1,4 @@
-module github.com/ease-lab/vhive/utils/benchmarking/eventing
+module github.com/Abhi4010/vhive/utils/benchmarking/eventing
 
 go 1.16
 
